@@ -1,0 +1,11 @@
+title: "30日でできる! Nostr自作入門"
+summary: "30日間でNostrプロトコルを学びながら実装します。"
+topics: ["nostr", "sveltekit"]
+published: false
+price: 0 # 有料の場合200〜5000
+
+# ファイル名でルーティングするので不要
+# 本に含めるチャプターを順番に並べましょう
+# chapters:
+#   - example1
+#   - example2
