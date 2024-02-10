@@ -4,6 +4,7 @@ emoji: "🛠"
 type: "idea"
 topics: ["chrome", "拡張機能", "作業効率"]
 published: false
+publication_name: "trans"
 ---
 
 こんにちは。生徒会情報機構（TRANs）のakkuです。
