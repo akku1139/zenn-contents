@@ -3,7 +3,7 @@ title: "おすすめ拡張機能2"
 emoji: "🛠"
 type: "idea"
 topics: ["chrome", "拡張機能", "作業効率"]
-published: false
+published: true
 publication_name: "trans"
 ---
 
