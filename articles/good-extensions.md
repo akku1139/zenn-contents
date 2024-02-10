@@ -86,6 +86,23 @@ https://vencord.dev
 某Betterと並ぶ改造DiscordのChrome拡張機能版(公式配布なので安心)です。
 (Discordの利用規約違反ですから積極的に使いましょう)
 
+## Dark Reader
+https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh
+https://darkreader.org
+Webサイトをダークテーマ化する拡張機能です。
+きょんしーさんも紹介しましたが、本当に便利です。
+Dark Readerの無いWebブラウジングは想像するだけでも地獄です。
+[ダークテーマに対する反論](https://wired.jp/2019/10/05/dark-mode-chrome-android-ios-science/)はありますが、ダークテーマの嫌いな人だけが勝手に騒いでいればいいと思います。
+適切に設定されたダークテーマと部屋の明かりは、確かに目の疲労感などを軽減します。
+参考までに設定を公開します。
+```yaml
+明るさ: -15
+コントラスト: +10
+セピア: off
+グレースケール: off
+```
+![設定例](/images/good-extensions/darkreader-setting.png)
+
 ## Save to Scrapbox
 https://chromewebstore.google.com/detail/save-to-scrapbox/jcdhmhfihdilhhnjhflmanmoimfjpakh
 読んでいるサイトをScrapboxに保存する拡張機能です。
