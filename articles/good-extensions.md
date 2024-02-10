@@ -19,7 +19,7 @@ https://adguard.com/ja/welcome.html
 みんな大好き広告ブロッカーです。
 きょんしーさんはuBlock Originをおすすめしていますが、AdGuardさんはUIが美しいです。
 このシンプルなところがまた良いですね。
-![AdGuardのシンプルで洗練されたUI](/images/good-extension/adguard1.png)
+![AdGuardのシンプルで洗練されたUI](/images/good-extensions/adguard1.png)
 
 また、AdGuardさんはManifest v3への完全な対応を発表しています。
 https://adguard.com/ja/blog/adguard-mv3.html
@@ -42,7 +42,7 @@ YouTubeは利用規約違反であると主張しますが、利用規約には�
 ですから、積極的に広告ブロックを薦めましょう。
 ※ あなたのYouTubeアカウントが B☆A☆N されても責任は負いません
 AdGuardは自動でフィルターを更新しますが、ポップアップを開き ↺ を押すと手動で最新のフィルターに更新します。
-![フィルターの更新](/images/good-extension/adguard2.png)
+![フィルターの更新](/images/good-extensions/adguard2.png)
 
 ## AutoPagerize
 https://chromewebstore.google.com/detail/autopagerize/igiofjhpmpihnifddepnpngfjhkfenbp
