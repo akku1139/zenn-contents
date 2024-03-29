@@ -14,7 +14,7 @@ TRANsに何の関連性もないですが、kyonshiさんが記事を書いて�
 ↓ きょんしーさんの記事も読んでね ↓
 https://note.com/kyonshi_/n/nfba460771acc
 
-## AdGuard AdBlocker
+# AdGuard AdBlocker
 https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg
 https://adguard.com/ja/welcome.html
 みんな大好き広告ブロッカーです。
@@ -36,7 +36,7 @@ AdGuardさんの特徴のひとつに「ステルスモード」があります�
 - WebRTCの禁止 (オンライン会議に使われますが、そうでない場合にあなたを特定するために使われます)
 - その他の追跡方法の禁止
 
-### YouTubeの広告を削除するために
+## YouTubeの広告を削除するために
 金の亡者YouTubeは日々新しい広告ブロック対策を講じます。
 YouTubeは利用規約違反であると主張しますが、利用規約にはその根拠が書かれていません。
 [またEUではYouTube側が違法です。](https://gigazine.net/news/20231110-youtube-blocker-detection/)
@@ -45,7 +45,7 @@ YouTubeは利用規約違反であると主張しますが、利用規約には�
 AdGuardは自動でフィルターを更新しますが、ポップアップを開き ↺ を押すと手動で最新のフィルターに更新します。
 ![フィルターの更新](/images/good-extensions/adguard2.png)
 
-## AutoPagerize
+# AutoPagerize
 https://chromewebstore.google.com/detail/autopagerize/igiofjhpmpihnifddepnpngfjhkfenbp
 http://autopagerize.net
 検索で次のページを開くことは非常にめんどくさいですね。
@@ -54,7 +54,7 @@ http://autopagerize.net
 検索サイト以外にも、謎にページが分けられているサイトでも効力を発揮します。
 入れておいて損はないと思います。
 
-## Simple Translate
+# Simple Translate
 https://chromewebstore.google.com/detail/simple-translate/ibplnjkanclpjokhdolnendpplpjiace
 シンプルかつ洗練された翻訳拡張機能です。
 ![素晴らしい使用画面](/images/good-extensions/simple-translate1.png)
@@ -65,7 +65,7 @@ Google翻訳とDeepL(無料版APIキーが必要)に対応しています。
 などがあります。
 英語のサイトなどを読むときに重宝しています。
 
-## Violentmonkey
+# Violentmonkey
 https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag
 https://violentmonkey.github.io
 ユーザースクリプトを設定・管理するための拡張機能です。
@@ -81,13 +81,13 @@ Violentmonkeyにこだわる理由は特にありませんが、
 - UIが好み
 だったため使っています。
 
-## Vencord Web
+# Vencord Web
 https://chromewebstore.google.com/detail/vencord-web/cbghhgpcnddeihccjmnadmkaejncjndb
 https://vencord.dev
 某Betterと並ぶ改造DiscordのChrome拡張機能版(公式配布なので安心)です。
 (Discordの利用規約違反ですから積極的に使いましょう)
 
-## Dark Reader
+# Dark Reader
 https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh
 https://darkreader.org
 Webサイトをダークテーマ化する拡張機能です。
@@ -104,19 +104,19 @@ Dark Readerの無いWebブラウジングは想像するだけでも地獄です
 ```
 ![設定例](/images/good-extensions/darkreader-setting.png)
 
-## Save to Scrapbox
+# Save to Scrapbox
 https://chromewebstore.google.com/detail/save-to-scrapbox/jcdhmhfihdilhhnjhflmanmoimfjpakh
 読んでいるサイトをScrapboxに保存する拡張機能です。
 簡単にメモとして使えるのでおすすめです。
 時々ミスって押すことがありますから、少し押しにくいポジションに設置しましょう。
 
-## Checker Plus for Gmail™
+# Checker Plus for Gmail™
 https://chromewebstore.google.com/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj
 https://jasonsavard.com/?ext=gmail
 Gmailの新着メールを監視して通知する拡張機能です。
 メールボックスを開かなくてもメールを確認できるので、使用しています。
 
-## Bitwarden - Free Password Manager
+# Bitwarden - Free Password Manager
 https://chromewebstore.google.com/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb
 https://bitwarden.com
 オンラインパスワードマネージャです。
@@ -126,21 +126,21 @@ https://bitwarden.com
 ![パスワード生成](/images/good-extensions/bitwarden-generate-password.png)
 また、保存サーバーをセルフホストすることによって更なる安心を得ることが出来ます。
 
-## Authenticator
+# Authenticator
 https://chromewebstore.google.com/detail/authenticator/bhghoamapcdpbohphigoooaddinpkbai
 https://authenticator.cc
 2段階認証にスマートフォンを使う時代は終わりました。
 これからはブラウザ拡張機能を使います。
 Authenticatorは[ソースコードが公開](https://github.com/Authenticator-Extension/Authenticator)されていますので安心です。
 
-## Old Twitter Layout (2024)
+# Old Twitter Layout (2024)
 https://chromewebstore.google.com/detail/old-twitter-layout-2024/jgejdcdoeeabklepnkdbglgccjpdgpmf
 https://github.com/dimdenGD/OldTwitter
 今は変わってしまった 𝕏 のUIを懐かしのTwitterに戻すための拡張機能です。
 久しぶりに有効化したら青い鳥が熱烈に歓迎してくれました。
 ![青い鳥](/images/good-extensions/bluebird.png)
 
-## Vivaldi
+# Vivaldi
 https://vivaldi.com
 https://vivaldi.net
 拡張機能ではありませんが、私が使っているWebブラウザの紹介です。
@@ -164,7 +164,7 @@ Vivaldiは95%のオープンソースで開発されています。
 https://note.com/histone/n/n725fa71d3a55
 私は5%のクローズドソースが嫌いですからWebブラウザを自作する計画があります。
 
-## 終わりに、記事の内容を3行で振り返る。
+# 終わりに、記事の内容を3行で振り返る。
 - ブラウザ拡張機能は非常に便利ですから積極的に使いましょう。
 - 広告ブロックは正義
 - Vivaldiは便利
