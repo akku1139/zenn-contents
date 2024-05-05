@@ -10,6 +10,7 @@ publication_name: "trans"
 こんにちは。生徒会情報機構（TRANs）の[公式Webサイト](https://trans.stki.org)を作っているakkuです。
 TRANs公式サイトではフレームワークとしてAstroを使っていますが、開発をしているといくつかの問題点が見えてきたので紹介しようと思います。
 
+
 # 依存関係が大きい
 1. `$ npm create astro` (Template: Empty)
 2. `$ du -h -d0 --total node_modules/`
@@ -43,7 +44,25 @@ UNIXを見習ってください。
 > モジュール化の原則
 があります。
 
-
 少なくとも150MBの依存関係が「スモール」では無いことは事実でしょう。
 
-#
+
+# 補完が効かない
+
+私はコードを書くために `vscode.dev` (VSCodeのWeb版) をよく使用しますが、~~Astroの拡張機能はWeb版で使えません。~~
+
+さっき確認したらインストールできるみたいです。
+使ってない間に進化したようですね。
+
+
+# JSXで独自の問題
+
+昔のことなのでVSCode拡張機能のように今は改善されているかもしれません。
+
+```jsx
+import Component from "../components/Component.tsx";
+---
+<Component
+  prop1 = {<p>やぁ</p>}
+/>
+```
