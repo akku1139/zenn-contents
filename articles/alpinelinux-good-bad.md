@@ -40,3 +40,39 @@ published: false
 # メリット
 
 ## 小さい
+
+Alpine LinuxはLinux 3大デカいパッケージ(小泉構文)(諸説あり)である
+
+- Systemd ([32MB](https://archlinux.org/packages/core/x86_64/systemd/))
+- The GNU C Library (glibc) ([47MB](https://archlinux.org/packages/core/x86_64/glibc/))
+- GNU Core Utilities (coreutils) ([15MB](https://archlinux.org/packages/core/x86_64/coreutils/))
+
+が含まれません。
+代わりに
+
+- OpenRC ([1.6MB](https://pkgs.alpinelinux.org/package/edge/main/x86_64/openrc))
+- musl libc ([664KB](https://pkgs.alpinelinux.org/package/edge/main/x86_64/musl))
+- BusyBox ([798KB](https://pkgs.alpinelinux.org/package/edge/main/x86_64/busybox))
+
+が使用されます。
+めっちゃ小さいですね。
+
+## パッケージマネージャが速い
+
+Alpine Linuxが採用しているパッケージマネージャの `apk` は爆速です。
+
+体感レベルの話ですが、 `apt` の3倍は速いと思います。
+
+Arch Linuxの `pacman` より速いです。
+
+スペックの低いマシンではこの差がかなり顕著に出ます。
+
+それぞれのパッケージマネージャ自体のサイズを比較すると
+
+| パッケージマネージャ | ディストリビューション | サイズ | リンク |
+| --- | --- | --- | --- |
+| apk | Alpine Linux | 300KB | https://pkgs.alpinelinux.org/package/edge/main/x86_64/apk-tools |
+| pacman | Arch Linux | 4.8MB | https://archlinux.org/packages/core/x86_64/pacman/ |
+| apt + dpkg | Debian | 4MB + 6MB | https://packages.debian.org/bookworm/apt https://packages.debian.org/bookworm/dpkg |
+
+となります。実際は依存関係も有りますがapkは一番小さいです。
