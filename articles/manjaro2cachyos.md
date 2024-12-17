@@ -108,7 +108,7 @@ or
 # 1. リポジトリの交換
 
 CachyOSにはCachyOSのリポジトリとArchLinuxのリポジトリが必要なようです。
-まずは[公式Wiki](https://wiki.cachyos.org/cachyos_repositories/how_to_add_cachyos_repo/)に従ってCachyOSのミラーを追加します。
+まずは[公式Wiki](https://wiki.cachyos.org/features/optimized_repos/#adding-our-repositories-to-an-existing-arch-linux-install)に従ってCachyOSのミラーを追加します。
 
 ```
 $ wget https://mirror.cachyos.org/cachyos-repo.tar.xz
