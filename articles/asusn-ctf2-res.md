@@ -671,6 +671,10 @@ ZEROHONでした
 
 対戦ありがとうございました。面白い問題でした。
 
+[脆弱エンジニアの日常](https://www.youtube.com/@full-weak-engineer)さんは普段から面白い動画を上げてるので是非チャンネル登録してください。 (案件ではない)
+
+https://www.youtube.com/@full-weak-engineer
+
 かなりAIに頼ってしまう部分があったので全部自力でできるようになりたいです。
 
 ところで防衛省CTFの申し込み忘れてた。
