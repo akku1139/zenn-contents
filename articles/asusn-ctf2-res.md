@@ -21,7 +21,11 @@ https://nanimokangaeteinai.hateblo.jp/entry/2024/12/30/090000
 
 # 他の方のwrite up
 
+https://nanimokangaeteinai.hateblo.jp/entry/2024/12/30/090000
+
 https://darallium.com/tech/asusn-ctf-2/
+
+https://www.maaaaa.net/asusn-ctf-2/
 
 # Welcome
 
