@@ -537,5 +537,19 @@ NoExtract = usr/share/X11/locale/*
 NoExtract = usr/include/*
 ```
 
-1. `apk add make git gcc`
-2. `
+1. `apk add make git gcc musl-dev`
+2. `git clone --depth=1 https://github.com/koturn/Whitespace`
+3. `cd Whitespace/`
+4. `make`
+5. `white_flag.ws` を頑張って持ってくる
+6. `./whitespace.out white_flag.ws -t -o white_flag.c`
+7. Google Gemini (2.0 Flash Experimental) に最適化してもらいました
+9. `int offsets[] = {125, 114, 51, 75, 99, 52, 104, 95, 101, 84, 49, 72, 119, 95, 82, 95, 85, 123, 110, 115, 117, 115, 97};` がおそらくフラグです
+    Pythonで解読します。
+
+```py
+f = [125, 114, 51, 75, 99, 52, 104, 95, 101, 84, 49, 72, 119, 95, 82, 95, 85, 123, 110, 115, 117, 115, 97]
+"".join(reversed([*map(chr, f)]))
+```
+
+flag: `asusn{U_R_wH1Te_h4cK3r}`
