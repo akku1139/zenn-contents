@@ -1,9 +1,9 @@
 ---
 title: "ASUSN CTF 2 非想定解集 (write up)"
 emoji: "🎭️"
-type: "idea"
-topics: ["CTF"]
-published: false
+type: "tech"
+topics: ["CTF", "writeup"]
+published: true
 ---
 
 先日開催された[脆弱エンジニアの日常](https://www.youtube.com/@full-weak-engineer)さん主催の
@@ -523,7 +523,7 @@ flag: `asusn{El3cTr0n_M0_S41k0Ud4Z3~!!}`
 
 エラーで止まりました。
 
-ここで、WhitespaceをC言語に変換してくれるプログラムを書いた人が居たので
+ここで、WhitespaceをC言語に変換してくれるプログラムを書いた人が居たので、ありがたく使わせていただきます。
 
 https://koturn.hatenablog.com/entry/2015/08/10/000000
 
@@ -557,6 +557,10 @@ f = [125, 114, 51, 75, 99, 52, 104, 95, 101, 84, 49, 72, 119, 95, 82, 95, 85, 12
 ```
 
 flag: `asusn{U_R_wH1Te_h4cK3r}`
+
+出てきたコードはこちら:
+
+https://gist.github.com/akku1139/7becfbf3b54af766feef38e7257a395f
 
 
 # Crypto
