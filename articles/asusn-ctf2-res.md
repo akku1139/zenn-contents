@@ -27,7 +27,19 @@ https://darallium.com/tech/asusn-ctf-2/
 
 https://www.maaaaa.net/asusn-ctf-2/
 
+https://github.com/candy12t/ctf/tree/master/2024/asusn-ctf-2
+
+
 # Welcome
+
+## アンケート
+
+いつの間にか追加されてたやつ
+
+flag: `asusn{yoi_otoshi_wo!}`
+
+腦死でSubmitボタンを押すと見逃します。
+
 
 ## Welcome1
 
