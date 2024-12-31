@@ -29,6 +29,8 @@ https://www.maaaaa.net/asusn-ctf-2/
 
 https://github.com/candy12t/ctf/tree/master/2024/asusn-ctf-2
 
+https://stark2420.github.io/starknote/post/asusn-ctf-2/
+
 
 # Welcome
 
