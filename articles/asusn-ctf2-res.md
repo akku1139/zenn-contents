@@ -31,6 +31,7 @@ https://github.com/candy12t/ctf/tree/master/2024/asusn-ctf-2
 
 https://stark2420.github.io/starknote/post/asusn-ctf-2/
 
+https://tan.hatenadiary.jp/entry/2025/01/01/041818
 
 # Welcome
 
